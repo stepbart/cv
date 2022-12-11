@@ -1,0 +1,42 @@
+body {
+  background-color: #FCF8E8;
+}
+
+h1 {
+ color: #87805E;
+  font-family: "Verdana";
+}
+
+h3 {
+  color: #94B49F;
+  font-family: "Ebrima";
+}
+
+p {
+  color: #DF7861;
+  font-family: "Verdana";
+}
+
+li {
+  color: #DF7861;
+  font-family: "Verdana";
+}
+
+a {
+  color: #DF7861;
+  font-family: "Verdana";
+  line-break: loose;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #A6D1E6;
+  border-width: 5px;
+  width: 5%;
+}
+
+td {
+  color: #DF7861;
+  font-family: "Verdana";
+}
